@@ -36,7 +36,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 │   Untuk mengecek nyawa, money, dll.
 │• *${usedPrefix}judi <jumlah>*
 │   *_Jangan judi, Karena gk bakal_*
-│   *_balik modal.BENERAN GK BOHONG 🙂_*
+│   *_balik modal.BENERAN GK BOHONG_*
 │  
 │ *©Nafron 2022*
 ╰─「 *Tutorial Main 𝗙𝗥𝗢𝗡 𝗕𝗢𝗧* 」

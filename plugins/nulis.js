@@ -61,7 +61,7 @@ let handler = async (m, { conn, args }) => {
     .stdout.on('data', chunk => bufs.push(chunk))
 }
 handler.help = ['n'].map(v => v + 'ulis <teks>')
-handler.tags = ['nulis']
+handler.tags = ['nulis','n']
 handler.command = /^nulis$/i
 handler.owner = false
 handler.mods = false
